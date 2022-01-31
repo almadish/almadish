@@ -1,4 +1,4 @@
-### Hi there! 👋 My name is Almadi!
+### Hi there! I am Almadi! 👋👋👋
 
 <!--
 **almadish/almadish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->

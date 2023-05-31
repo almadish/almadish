@@ -1,10 +1,10 @@
 ## About Me
 
-My name is Almadi Shiryayev. I graduated from NYU Shanghai with a degree in Data Science with Artificial Intelligence Concentration. My coursework at the university provided me with a strong foundation in various areas of Data Science, AI and Machine Learning.
+My name is Almadi Shiryayev. I graduated from NYU Shanghai with a degree in Data Science with Artificial Intelligence (AI) Concentration. My coursework at the university provided me with a strong foundation in various areas of Data Science, Artificial Intelligence (AI) and Machine Learning.
 
 ## Education
 
-- Bachelor of Science in Data Science with AI Concentration, NYU Shanghai
+- Bachelor of Science in Data Science with Artificial Intelligence (AI) Concentration, NYU Shanghai
 
 ## Relevant Coursework
 

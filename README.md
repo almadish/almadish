@@ -43,4 +43,4 @@ In addition to my coursework, I have also worked on several projects that allowe
 Feel free to reach out to me for collaborations, discussions, or any inquiries:
 
 - GitHub: [almadish](https://github.com/almadish)
-- Email: almadiwka@gmail.com
+- Email: almadi.shir@gmail.com

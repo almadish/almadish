@@ -31,12 +31,12 @@ In addition to my coursework, I have also worked on several projects that allowe
 
 ## Skills
 
-- Programming Languages: Python, R
+- Programming Languages: Python
 - Machine Learning: Scikit-learn, TensorFlow, Keras
 - Data Manipulation and Analysis: pandas, NumPy, SQL
 - Data Visualization: Matplotlib, Seaborn, Tableau
 - Natural Language Processing: NLTK, spaCy
-- Blockchain & Cryptocurrencies: Ethereum, Solidity
+- Blockchain & Cryptocurrencies: Solidity
 
 ## Contact
 
